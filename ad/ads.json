@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/ad/icon.png",
       "cover": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/ad/graphic.png",
-      "appName": "World Cup 2022 Schedule",
-      "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
-      "package": "livescore.schedule.worldcup",
+      "appName": "World Cup 2022 Live Stream TV",
+      "description": "Watch World Cup 2022 Live Stream TV on your mobile phone for free. Enjoy live streaming of world cup 2022.",
+      "package": "com.wc.live.streaming",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
